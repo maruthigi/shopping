@@ -7,7 +7,7 @@ let f=document.getElementById("container8")
 e.addEventListener("click",()=>{
     f.style.display="block"
 })
-let images=["./maruthi/shirt3.jpg" ,"./maruthi/shirt4.jpg" ,"./maruthi/shirt5.jpg" ,"./maruthi/shirt6.jpg" ]
+let images=["https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60","https://media.istockphoto.com/id/1399050284/photo/smart-caucasian-mature-middle-aged-freelancer-man-in-beige-shirt-wearing-glasses-looking-at.jpg?b=1&s=170667a&w=0&k=20&c=bg0AXwjjMBmawkLIvXmjc-cfg2Shp5lKNBA-De6LlAo=","https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60","https://images.unsplash.com/photo-1598033129183-c4f50c736f10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"]
  let i=0
  ima=document.getElementById("img")
  setInterval(
